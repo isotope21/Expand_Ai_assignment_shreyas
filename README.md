@@ -6,3 +6,5 @@ Disease_Classification_(covid,normal,pneumonia).ipynb files contain full code fo
 download(1)- is a training vs validation accuracy graph
 
 download - is inference image
+
+Exapand AI assignment submission.pdf contain full explanation of solution
